@@ -1,3 +1,5 @@
+import $ from 'jquery';
+import 'slick-carousel';
 
 $(function () {
     $('#js-slider-2').slick({
